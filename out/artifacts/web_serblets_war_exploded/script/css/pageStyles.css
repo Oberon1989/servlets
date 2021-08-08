@@ -1,0 +1,54 @@
+
+li.phonesHeader
+{
+    color: white;
+    display: table-cell;
+    border: 1px solid black;
+    background: black;
+    text-align: center;
+}
+li.phonesList
+{
+    color: black;
+    display: table-cell;
+    border: 1px solid black;
+    text-align: center;
+    background: antiquewhite;
+    cursor: pointer;
+
+
+
+}
+li.phonesButton
+{
+    color: black;
+    display: table-cell;
+    border: 1px solid black;
+    background: green;
+    text-align: center;
+
+
+
+}
+ul{
+    width: 100%;
+    display: table;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+button
+{
+    cursor: pointer;
+}
+button.rmButton
+{
+    cursor: pointer;
+    background: red;
+}
+
+
+
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-jsp-api-9.0.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../karkan/tomcat-jsp-api-9.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
